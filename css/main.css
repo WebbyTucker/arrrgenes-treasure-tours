@@ -20,7 +20,7 @@ a:active {
 }
 
 a:focus {
-  outline: 3px solid blue;
+  outline: 3px solid hotpink;
 }
 
 .skip-links {
